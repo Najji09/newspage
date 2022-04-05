@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chanme2000/newspage.git/static/css/main.c3044364.css",
+    "main.js": "/chanme2000/newspage.git/static/js/main.207d1a37.js",
+    "index.html": "/chanme2000/newspage.git/index.html",
+    "main.c3044364.css.map": "/chanme2000/newspage.git/static/css/main.c3044364.css.map",
+    "main.207d1a37.js.map": "/chanme2000/newspage.git/static/js/main.207d1a37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3044364.css",
+    "static/js/main.207d1a37.js"
+  ]
+}
